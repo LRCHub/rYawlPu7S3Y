@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "nothing",
+  "base_artist": "susumu.",
+  "createdAt": "2026-02-15T18:28:10.998400Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Bunch Of Nothing",
+      "artist": "Eric Church",
+      "has_synced": true,
+      "path": "select/01_Bunch_Of_Nothing_Eric_Church.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing More",
+      "artist": "Mazare feat. Luma",
+      "has_synced": true,
+      "path": "select/02_Nothing_More_Mazare_feat._Luma.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nothing More",
+      "artist": "Mazare, Luma",
+      "has_synced": true,
+      "path": "select/03_Nothing_More_Mazare,_Luma.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sweet Nothing",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/04_Sweet_Nothing_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "There's Nothing Holdin' Me Back",
+      "artist": "Shawn Mendes",
+      "has_synced": true,
+      "path": "select/05_There's_Nothing_Holdin'_Me_Back_Shawn_Mendes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Astronaut: A Short History of Nearly Nothing",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/06_Astronaut__A_Short_History_of_Nearly_Nothing_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Astronaut (A Short History Of Nearly Nothing) [Feat. Zoë Keating]",
+      "artist": "Amanda Palmer",
+      "has_synced": true,
+      "path": "select/07_Astronaut_(A_Short_History_Of_Nearly_Nothing)_[Feat._Zoë_Keating]_Amanda_Palmer.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Ain't Nothing 'Bout You",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/08_Ain't_Nothing_'Bout_You_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Ain't Nothing 'Bout You",
+      "artist": "Brooks & Dunn",
+      "has_synced": true,
+      "path": "select/09_Ain't_Nothing_'Bout_You_Brooks_&_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "All for Nothing",
+      "artist": "Clayton Anderson",
+      "has_synced": true,
+      "path": "select/10_All_for_Nothing_Clayton_Anderson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Mama Don't Get Dressed Up for Nothing",
+      "artist": "Brooks & Dunn",
+      "has_synced": false,
+      "path": "select/11_Mama_Don't_Get_Dressed_Up_for_Nothing_Brooks_&_Dunn.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Never Wanted Nothing More",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/12_Never_Wanted_Nothing_More_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Never Wanted Nothing More",
+      "artist": "Kenny Chesney",
+      "has_synced": true,
+      "path": "select/13_Never_Wanted_Nothing_More_Kenny_Chesney.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nothing I Can Do About It Now",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/14_Nothing_I_Can_Do_About_It_Now_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nothing I Can Do About It Now (Album Version)",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/15_Nothing_I_Can_Do_About_It_Now_(Album_Version)_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nothing Lasts Forever",
+      "artist": "Sam Hunt",
+      "has_synced": true,
+      "path": "select/16_Nothing_Lasts_Forever_Sam_Hunt.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nothing Like You",
+      "artist": "Luke Combs",
+      "has_synced": false,
+      "path": "select/17_Nothing_Like_You_Luke_Combs.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nothing",
+      "artist": "susumu.",
+      "has_synced": false,
+      "path": "select/pl_01_nothing_susumu..txt"
+    }
+  ]
+}
